@@ -1,13 +1,7 @@
-# RWKV-7 "Goose" x070 (final release, "rc4a")
+All Copyright belongs to BlinkDL (rwkv.com)
 
-**Train RWKV-7**: use /RWKV-v5/ and use --my_testing "x070" in demo-training-prepare.sh and demo-training-run.sh
-
-Inference Demo:
-
-https://github.com/BlinkDL/RWKV-LM/blob/main/RWKV-v7/rwkv_v7_demo.py (GPT mode)
-
-https://github.com/BlinkDL/RWKV-LM/blob/main/RWKV-v7/rwkv_v7_demo_rnn.py (RNN mode)
-
-https://github.com/BlinkDL/RWKV-LM/blob/main/RWKV-v7/rwkv_v7_demo_fast.py (Both mode, fastest)
-
-Please check https://github.com/BlinkDL/modded-nanogpt-rwkv for speedrun experiments.
+### Just a study and personal use of RWKV-v7
+- check folder RWKV_v7_soTier
+- run on laptop 
+- Small set of data
+- Windows 11
